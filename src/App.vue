@@ -79,8 +79,6 @@ import Tabla from "@/components/Tabla";
 import {
   mdbContainer,
   mdbRow,
-  mdbCol,
-  mdbColumn,
   mdbBtn,
   mdbIcon,
   mdbModal,
@@ -96,8 +94,6 @@ export default {
     SelecConcess,
     mdbContainer,
     mdbRow,
-    mdbCol,
-    mdbColumn,
     mdbBtn,
     mdbIcon,
     mdbModal,
@@ -110,7 +106,6 @@ export default {
     return {
       productos,
       confirm: false,
-      value: "",
       cart: false,
       add: [],
       TextName: "",
