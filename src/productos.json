@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "nombre": "Pedro",
+        "apellido": "perez",
+        "direccion": "junquito kilometro 7",
+        "status": "activo",
+        "asignado": "Toyota"
+    },
+    {
+        "id": "2",
+        "nombre": "Ana ",
+        "apellido": "Maria",
+        "direccion": "junquito kilometro 7",
+        "status": "activo",
+        "asignado": "Toyota"
+    },
+    {
+        "id": "3",
+        "nombre": "Juan ",
+        "apellido": "Sanchez",
+        "direccion": "junquito kilometro 7",
+        "status": "activo",
+        "asignado": "Toyota"
+    },
+    {
+        "id": "4",
+        "nombre": "Carmen ",
+        "apellido": "rodriguez",
+        "direccion": "junquito kilometro 7",
+        "status": "activo",
+        "asignado": "Toyota"
+    },
+    {
+        "id": "5",
+        "nombre": "Tazna ",
+        "apellido": "Colmenarez",
+        "direccion": "junquito kilometro 7",
+        "status": "activo",
+        "asignado": "Toyota"
+    },
+    {
+        "id": "6",
+        "nombre": "Ana ",
+        "apellido": "periques",
+        "direccion": "junquito kilometro 7",
+        "status": "activo",
+        "asignado": "Toyota"
+    }
+]
