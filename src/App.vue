@@ -114,6 +114,7 @@ export default {
       direccion: "",
     };
   },
+  // metedos guardar cliente y borrar estado desde componente hijo
   methods: {
     guardar: function() {
       this.add.push({
